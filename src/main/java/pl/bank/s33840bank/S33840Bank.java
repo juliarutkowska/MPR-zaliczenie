@@ -4,8 +4,8 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class S33840BankApplication {
+public class S33840Bank {
 	public static void main(String[] args) {
-		SpringApplication.run(S33840BankApplication.class, args);
+		SpringApplication.run(S33840Bank.class, args);
 	}
 }
